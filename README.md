@@ -3,6 +3,11 @@
 - :purple_heart: I love learning new things
 - 🌱 I’m currently learning Redux
 
+
+### My hobbies outside work
+- :earth_americas: Travelling
+- :running: Running
+- :herb: Growing plants
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
