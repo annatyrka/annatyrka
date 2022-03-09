@@ -1,10 +1,10 @@
 ### Hi there, I'm Anna 👋
   
 - :purple_heart: I love learning new things
-- 🌱 I’m currently learning Redux
+- :green_book: I'm currently learning Redux
 
 
-### My hobbies outside work
+##### Some of my hobbies outside work:
 - :earth_americas: Travelling
 - :running: Running
 - :herb: Growing plants
