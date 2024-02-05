@@ -1,7 +1,6 @@
 ### Hi there, I'm Anna 👋
   
-- :purple_heart: I love learning new things
-- :green_book: I'm currently learning Redux
+ :purple_heart: I love learning new thing
 
 <!--
 - 👯 I’m looking to collaborate on ...
