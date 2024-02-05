@@ -1,6 +1,6 @@
 ### Hi there, I'm Anna 👋
   
- :purple_heart: I love learning new thing
+ :purple_heart: I love learning new things
 
 <!--
 - 👯 I’m looking to collaborate on ...
